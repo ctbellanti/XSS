@@ -1,2 +1,2 @@
-alert('xss')
-console.log('xss')
+alert('xss');
+console.log('xss');
